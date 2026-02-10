@@ -11,5 +11,4 @@ void loop() {
     Serial.print("FSR Value: ");
     Serial.println(fsrValue);
     delay(500);
-// write your code here
 }
